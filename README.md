@@ -1,0 +1,1 @@
+## Testing Javascript application with Jest
